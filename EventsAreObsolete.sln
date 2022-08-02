@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventsAreObsolete", "Events
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventsAreObsolete.Api", "..\EventsAreObsolete.Api\EventsAreObsolete.Api.csproj", "{9AD292B8-D70B-471C-A436-EFDC4C5A5DB3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventsAreObsolete.Api.Better", "..\EventsAreObsolete.Api.Better\EventsAreObsolete.Api.Better.csproj", "{0CD759EE-5AE1-4C83-930A-481FD9353030}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9AD292B8-D70B-471C-A436-EFDC4C5A5DB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9AD292B8-D70B-471C-A436-EFDC4C5A5DB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9AD292B8-D70B-471C-A436-EFDC4C5A5DB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CD759EE-5AE1-4C83-930A-481FD9353030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CD759EE-5AE1-4C83-930A-481FD9353030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CD759EE-5AE1-4C83-930A-481FD9353030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CD759EE-5AE1-4C83-930A-481FD9353030}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
